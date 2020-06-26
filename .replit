@@ -1,2 +1,2 @@
 language = "python3"
-run = ""
+run = "python word_frequency.py one-today.txt"
